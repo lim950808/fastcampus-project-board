@@ -27,3 +27,5 @@ spring:
       detection-strategy: annotated
   thymeleaf:
     cache: false
+  thymeleaf3:
+    decoupled-logic: true
